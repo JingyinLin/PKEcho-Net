@@ -1,5 +1,5 @@
 # Super-efficient Echocardiography Video Segmentation via Proxy- and Kernel-Based Semi-supervised Learning (AAAI-2023)
-The official implementation for the AAAI-2023 paper "Super-efficient Echocardiography Video Segmentation via Proxy- and Kernel-Based Semi-supervised Learning".
+The official implementation for the AAAI-2023 paper "[**Super-efficient Echocardiography Video Segmentation via Proxy- and Kernel-Based Semi-supervised Learning**](https://ojs.aaai.org/index.php/AAAI/article/view/25381)".
 
 Due to the confidentiality agreement in commercial cooperation, we only provide codes of core modules and the whole trainable models for the convenience of comparisons.
 
